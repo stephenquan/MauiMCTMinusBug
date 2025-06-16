@@ -19,7 +19,7 @@
 
             <Label Text="Click on the CheckBox below and observe the corresponding Label changing its orientation. When set to Arabic, however, clicking on the CheckBox will crash the app." />
 
-            <CheckBox x:Name="ExpandedCheck" />
+            <CheckBox x:Name="ExpandedCheck" IsChecked="True" />
 
             <Label
                 HorizontalOptions="Start"
